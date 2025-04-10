@@ -47,4 +47,4 @@ Pour toute question ou assistance, veuillez ouvrir une issue dans ce dépôt ou 
 
 ## Licence
 
-Ce projet est sous licence [LICENSE] - voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence [LICENSE](./LICENSE) - voir le fichier LICENSE pour plus de détails.
